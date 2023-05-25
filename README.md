@@ -1,2 +1,2 @@
 # CodeWars
-Ссылка на мой [профиль и примеры кода](https://wsq-coder.github.io/CodeWars_codes/index.html) с сайта CodeWars.com
+Ссылка на мои [решённые задачи и профиль](https://wsq-coder.github.io/CodeWars_codes/index.html) с сайта CodeWars.com
